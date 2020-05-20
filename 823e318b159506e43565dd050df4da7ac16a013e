@@ -1,0 +1,1 @@
+{"jobID":"b6f33863-9925-d881-fa0a-175b44f3a06c","spec":{"type":"policy","cause":{"Message":"","User":"Marcus Schmidt \u003cmarcus.schmidt@plentymarkets.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.3.*"},"remove":{}}}},"result":null}
